@@ -1,8 +1,7 @@
+👋 Hello! I'm Deepanshi ✨.
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Deepanshiii_?label=Follow)](https://twitter.com/intent/follow?screen_name=Deepanshiii_)
-
-
-
-👋 Hello! I'm Deepanshi, a pre-final year student majoring in computer science at the National Institute of Technology, Agartala.
+[![Linkedin: Deepanshi](https://img.shields.io/badge/-Deepanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshi17/)](https://www.linkedin.com/in/deepanshi17/)
 
 🌟 With a passion for algorithms and data structures, I love solving complex problems and optimizing code to create efficient and scalable solutions.
 
