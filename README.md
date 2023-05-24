@@ -1,7 +1,8 @@
 👋 Hello! I'm Deepanshi ✨.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Deepanshiii_?label=Follow)](https://twitter.com/intent/follow?screen_name=Deepanshiii_)
-[![Linkedin: Deepanshi](https://img.shields.io/badge/-Deepanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshi17/)](https://www.linkedin.com/in/deepanshi17/)
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Deepanshi177" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Deepanshiii_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/deepanshi17" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
 🌟 With a passion for algorithms and data structures, I love solving complex problems and optimizing code to create efficient and scalable solutions.
 
